@@ -1,5 +1,7 @@
 # Rust
 
+Notes and resources on Rust programming language
+
 ## Learning Rust
 
 [Learning Rust](https://learning-rust.github.io/)
